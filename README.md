@@ -15,7 +15,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills(やったことあるやつ）
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,css,r,ts,unity,vite,vscode,html,css,js,ts,react,python
- " />
+ "/>
 <br>
 
 
